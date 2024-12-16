@@ -1,0 +1,1 @@
+This repository demonstrates a common bug in decentralized applications (Dapps) where the user's balance is incorrectly retrieved. The bug involves using web3.eth.getBalance with the contract address instead of the user's address.  The solution shows the correct implementation to fetch the user's balance.
